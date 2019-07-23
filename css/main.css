@@ -32,3 +32,8 @@ h2 {
   background-color: #000;
   color: #fff;
 }
+
+.small-flex {
+  max-width: 50%;
+  max-height: 70%;
+}
