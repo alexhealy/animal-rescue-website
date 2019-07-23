@@ -5,3 +5,30 @@ html {
 a {
   text-decoration: none;
 }
+
+h2 {
+  font-family: "Raleway", sans-serif;
+}
+
+.first-content {
+  color: #fff;
+}
+
+.btn {
+  background-color: #fff;
+  color: #000;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #6ec2c1;
+}
+
+.btn-ghost {
+  background-color: #6ec2c1;
+}
+
+.btn-ghost:hover {
+  background-color: #000;
+  color: #fff;
+}
