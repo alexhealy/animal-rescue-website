@@ -37,3 +37,7 @@ h2 {
   max-width: 50%;
   max-height: 70%;
 }
+
+nav:hover {
+  color: #6ec2c1;
+}
